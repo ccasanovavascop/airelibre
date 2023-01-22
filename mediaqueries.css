@@ -1,0 +1,15 @@
+@media(max-width:1000px){
+    .padre{
+        flex-wrap: wrap;
+    }
+}
+
+@media(max-width:670px){
+    .padre{
+        flex-direction: column;
+    }
+
+    .hijo{
+        margin: 0 auto;
+    }
+}
