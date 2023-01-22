@@ -1,0 +1,29 @@
+.padre{
+    display: flex;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.hijo{
+    height: 100px;
+    flex:auto;
+    width: 50%;
+}
+
+.uno{
+    background-color: red;
+}
+
+.dos{
+    background-color: green;
+}
+
+.tres{
+    background-color: yellow;
+}
+
+.cuatro{
+    background-color: blueviolet;
+}
